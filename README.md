@@ -4,7 +4,9 @@ This is a QBASIC application designed to determine whether the provided number i
 <br>
 # Instructions
 <br>
-To use the given code just download the main <code>.exe</code> file and run it in a Windows Desktop.
+To use the given application just download the main <code>.exe</code> file and run it in a Windows Desktop.
+<br>
+To view and edit the code download the <code>.bas</code> file and run it using a QBASIC Compiler.
 <br>
 <h3>Thank you</h3>
 <h4>Regards, Divya</h4>
